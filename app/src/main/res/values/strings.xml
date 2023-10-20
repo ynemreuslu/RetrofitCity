@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitCityApp</string>
+    <string name="about_city">Information About the Cities of Turkey</string>
+    <string name="city_selected">City Selected</string>
+    <string name="city_information">City Information</string>
+</resources>
